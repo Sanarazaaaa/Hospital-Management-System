@@ -10,4 +10,4 @@ The BILLING.py file contains code for calculating the bill of the patient.
 RooMT.py file contains code for allocating a room to the patient if he/she gets admitted.
 appointment.py file contains code for scheduling an appointment with the doctor.
 
-This project is kept in mind keeping that it can be handled by a single person handling all the databases of the patient.
+This project is made by keeping in mind that it can be handled by a single person handling all the databases of the patient.
